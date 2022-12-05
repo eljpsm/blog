@@ -1,0 +1,27 @@
+@use "../Colors";
+
+.blog-post {
+  margin: auto;
+  width: 80%;
+}
+
+.blog-info-date {
+  color: Colors.$secondaryText;
+}
+
+.similar-post-name {
+  padding-right: 1ch;
+}
+
+.markdown-image {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.return-link {
+  display: inline-block;
+  margin-top: 2ch;
+  margin-bottom: 4ch;
+}

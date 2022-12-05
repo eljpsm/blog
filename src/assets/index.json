@@ -1,0 +1,10 @@
+{
+  "blogPosts": [
+    {
+      "name": "hello, world!",
+      "safeName": "hello-world",
+      "localPath": "blog/website/hello-world.md",
+      "date": "2022-12-06"
+    }
+  ]
+}

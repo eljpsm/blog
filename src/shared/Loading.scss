@@ -1,0 +1,8 @@
+@use "../Colors";
+
+.loading {
+  color: Colors.$secondaryText;
+  display: block !important;
+  margin-left: auto;
+  margin-right: auto;
+}

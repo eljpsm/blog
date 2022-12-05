@@ -1,0 +1,34 @@
+@use "Colors";
+
+* {
+  font-family: monospace;
+}
+
+.primary-header-brand {
+  font-weight: bold;
+  cursor: pointer;
+  user-select: none;
+}
+
+.primary-header:hover {
+  cursor: pointer;
+}
+
+.primary-header-style {
+  user-select: none;
+  font-weight: lighter;
+  color: Colors.$background;
+  background-color: Colors.$primary;
+}
+
+.content {
+  min-height: 75vh;
+}
+
+.primary-footer {
+  text-align: center;
+}
+
+.primary-footer-version {
+  font-weight: lighter;
+}

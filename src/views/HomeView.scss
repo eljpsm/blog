@@ -1,0 +1,14 @@
+@use "../Colors";
+
+.blog-post-header {
+  margin-bottom: 2em;
+}
+
+.blog-post-header-date {
+  color: Colors.$secondaryText;
+  margin-bottom: 0.25em;
+}
+
+.blog-post-header-badge {
+  margin-left: 0.5em;
+}
